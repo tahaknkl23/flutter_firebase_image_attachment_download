@@ -70,7 +70,7 @@ class _HomePageState extends State<HomePage> {
     });
 
     if (url.contains('mp4')) {
-      await GallerySaver.saveVideo(path, toDcim: true);
+      await GallerySaver.saveVideo(path, toDcim: true);// bura da dosya indirme işlemi yapılıyor
     } else if (url.contains('png')) {
       await GallerySaver.saveImage(path, toDcim: true);
     } else if (url.contains('jpg')) {
