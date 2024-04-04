@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "960578985948",
+    "project_id": "imagedownload-59a17",
+    "storage_bucket": "imagedownload-59a17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960578985948:android:fbdb789df5f6b32a273919",
+        "android_client_info": {
+          "package_name": "com.example.image_download"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDLYxqmrHOSrIx35CqaBtYAD-2pxCLp2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
